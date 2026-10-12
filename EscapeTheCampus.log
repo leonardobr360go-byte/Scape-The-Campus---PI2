@@ -1,0 +1,22 @@
+﻿enigma1.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_rectangle, referenciado na função enigma1_desenhar
+jogo.obj : error LNK2001: símbolo externo não resolvido __imp_al_draw_rectangle
+mapa.obj : error LNK2001: símbolo externo não resolvido __imp_al_draw_rectangle
+enigma1.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_rounded_rectangle, referenciado na função enigma1_desenhar
+enigma1.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_filled_rectangle, referenciado na função enigma1_desenhar
+jogo.obj : error LNK2001: símbolo externo não resolvido __imp_al_draw_filled_rectangle
+mapa.obj : error LNK2001: símbolo externo não resolvido __imp_al_draw_filled_rectangle
+enigma1.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_filled_rounded_rectangle, referenciado na função enigma1_desenhar
+enigma1.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_text, referenciado na função enigma1_desenhar
+jogo.obj : error LNK2001: símbolo externo não resolvido __imp_al_draw_text
+mapa.obj : error LNK2001: símbolo externo não resolvido __imp_al_draw_text
+enigma1.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_textf, referenciado na função enigma1_desenhar
+jogo.obj : error LNK2001: símbolo externo não resolvido __imp_al_draw_textf
+jogo.obj : error LNK2019: símbolo externo não resolvido, __imp_al_init_primitives_addon, referenciado na função jogo_iniciar
+jogo.obj : error LNK2019: símbolo externo não resolvido, __imp_al_draw_line, referenciado na função desenhar_hud
+jogo.obj : error LNK2019: símbolo externo não resolvido, __imp_al_init_image_addon, referenciado na função jogo_iniciar
+jogo.obj : error LNK2019: símbolo externo não resolvido, __imp_al_destroy_font, referenciado na função jogo_encerrar
+jogo.obj : error LNK2019: símbolo externo não resolvido, __imp_al_init_font_addon, referenciado na função jogo_iniciar
+jogo.obj : error LNK2019: símbolo externo não resolvido, __imp_al_init_ttf_addon, referenciado na função jogo_iniciar
+recursos.obj : error LNK2019: símbolo externo não resolvido, __imp_al_create_builtin_font, referenciado na função carregar_fonte
+recursos.obj : error LNK2019: símbolo externo não resolvido, __imp_al_load_ttf_font, referenciado na função carregar_fonte
+C:\Users\leona\OneDrive\Desktop\SCPAE THE CAMPUS\EscapeTheCampus\x64\Debug\EscapeTheCampus.exe : fatal error LNK1120: 14 externo não resolvidos
